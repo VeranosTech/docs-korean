@@ -1,0 +1,16 @@
+# Copyright (C) 2017 Veranos Technologies
+# Joel Kim <kim.dohhyoung@gmail.com>
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"PO-Revision-Date: 2017-08-08 15:01+0900\n"
+"Last-Translator: Joel Kim <kim.dohhyoung@gmail.com>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "compiler"
+msgstr "컴파일러"
+
+msgid "python"
+msgstr "파이썬"

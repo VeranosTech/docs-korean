@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# emacs temorary file
+*~
+
+# OS X
+.DS_Store
