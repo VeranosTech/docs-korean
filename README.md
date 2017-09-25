@@ -16,6 +16,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
   * html: http://veranostech.github.io/docs-korean-python-packaging-user-guide/build/html/index_ko.html
 
+* 콘다(Conda)
+  * repo: https://github.com/VeranosTech/docs-korean-conda-docs
+  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
+
 ## 번역 용어집
 
 * http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
