@@ -26,7 +26,7 @@
 
 * Setuptools 패키지
 
-  * repo: https://github.com/VeranosTech/docs-korean-setuptools
+  * repo: https://github.com/VeranosTech/docs-korean-setuptools
   * html: https://veranostech.github.io/docs-korean-setuptools/build/html/index_ko.html
 
 ## 번역 용어집
