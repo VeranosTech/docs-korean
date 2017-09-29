@@ -29,6 +29,14 @@
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
   * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index_ko.html
 
+* SqlAlchemy 패키지
+
+  * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
+
+* Scrapy 패키지
+
+  * repo: https://github.com/VeranosTech/docs-korean-scrapy
+
 ## 번역 용어집
 
 * http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
