@@ -30,29 +30,41 @@ gh-pages 브랜치는 다른 브랜치와 달리 docs-korean 브랜치를 스핑
 
 1. docs-korean 브랜치에서 파일을 수정한다. 
    gh-pages 브랜치에서는 파일을 편집하면 안된다.
-   반대로 ocs-korean 브랜치에는 컴파일된 html 파일이 있으면 안된다.::
+   반대로 docs-korean 브랜치에는 컴파일된 html 파일이 있으면 안된다.
 
-    git checkout docs-korean
+   .. code-block:: 
 
-2. docs-korean 브랜치를 commit 한 후 gh-pages 브랜치로 checkout 한다.::
+      git checkout docs-korean
 
-    git add .
-    git commit -m "edit"
-    git checkout gh-pages
+2. docs-korean 브랜치를 commit 한 후 gh-pages 브랜치로 checkout 한다.
 
-3. gh-pages 브랜치의 내용을 최신의 docs-korean 브랜치로 rebase 한다.::
+   .. code-block:: 
 
-    git rebase docs-korean
+      git add .
+      git commit -m "edit"
+      git checkout gh-pages
 
-4. 스핑크스 컴파일한다.::
+3. gh-pages 브랜치의 내용을 최신의 docs-korean 브랜치로 rebase 한다.
 
-    make html
+   .. code-block:: 
 
-5. 컴파일 결과를 commit 한다.::
+      git rebase docs-korean
 
-    git add .
-    git commit -m "build"
+4. 스핑크스 컴파일한다.
 
-6. 커밋된 내용을 강제로 리모트에 push 한다.::
+   .. code-block:: 
 
-    git push --force origin gh-pages
+      make html
+
+5. 컴파일 결과를 commit 한다.
+
+   .. code-block:: 
+
+      git add .
+      git commit -m "build"
+
+6. 커밋된 내용을 강제로 리모트에 push 한다.
+
+   .. code-block:: 
+
+      git push --force origin gh-pages
