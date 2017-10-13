@@ -28,7 +28,9 @@ gh-pages 브랜치는 다른 브랜치와 달리 docs-korean 브랜치를 스핑
 다른 브랜치와 달리 가장 최근의 docs-korean 브랜치에만 의존한다. 
 따라서 다른 브랜치와 다르게 다음과 같이 관리한다.
 
-1. docs-korean 브랜치에서 파일을 수정한다. gh-pages 브랜치에서는 파일을 편집하면 안된다.::
+1. docs-korean 브랜치에서 파일을 수정한다. 
+   gh-pages 브랜치에서는 파일을 편집하면 안된다.
+   반대로 ocs-korean 브랜치에는 컴파일된 html 파일이 있으면 안된다.::
 
     git checkout docs-korean
 
