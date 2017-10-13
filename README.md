@@ -37,6 +37,12 @@
 
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
 
+
+## 번역 작업 가이드
+
+* [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
+
+
 ## 번역 용어집
 
 * http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
