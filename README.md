@@ -45,4 +45,4 @@
 
 ## 번역 용어집
 
-* http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
+* https://docs.google.com/a/veranostech.com/spreadsheets/d/1bqXww1Q5PuYEDMu-1ax32dkVoUcgKgYhXqmteB4IvSs/edit?usp=sharing
