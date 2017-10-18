@@ -24,16 +24,16 @@
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
   * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/html/index_ko.html
 
-* Setuptools 패키지
+* 셋업툴즈(Setuptools)
 
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
   * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index_ko.html
 
-* SqlAlchemy 패키지
+* Sql알케미(SqlAlchemy)
 
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
 
-* Scrapy 패키지
+* 스크래피(Scrapy)
 
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
 
