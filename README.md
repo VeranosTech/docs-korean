@@ -12,7 +12,7 @@
 * 독유틸(Docutils)
 
   * repo: https://github.com/VeranosTech/docs-korean-docutils
-  * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index.html
+  * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index_ko.html
 
 * 스핑크스(Sphinx)
 
