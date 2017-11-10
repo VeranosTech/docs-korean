@@ -38,6 +38,11 @@
 
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
 
+* cvxopt
+
+  * repo: https://github.com/VeranosTech/docs-korean-cvxopt.git
+  * html: https://veranostech.github.io/docs-korean-cvxopt/index.html
+
 
 ## 번역 작업 가이드
 
