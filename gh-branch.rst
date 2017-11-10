@@ -68,3 +68,18 @@ gh-pages 브랜치는 다른 브랜치와 달리 docs-korean 브랜치를 스핑
    .. code-block:: 
 
       git push --force origin gh-pages
+
+
+새로 포크한 레포지토리가 원래 gh-pages 브랜치를 가지는데 github page에 보이지 않을 때
+--------------------------------------------------------------------------------
+
+다음과 같이 레포지토리의 gh-pages 브랜치를 지웠다가 다시 push
+
+  .. code-block::
+  
+     git checkout gh-pages
+     git push origin --delete gh-pages
+     git push origin
+
+
+
