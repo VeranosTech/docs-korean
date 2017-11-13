@@ -37,6 +37,7 @@
 * 알렘빅(Alembic)
 
   * repo: https://github.com/VeranosTech/docs-korean-alembic
+  * html: https://veranostech.github.io/docs-korean-alembic/docs/build/output/html/index.html
 
 * 스크래피(Scrapy)
 
