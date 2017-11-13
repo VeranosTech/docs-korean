@@ -34,11 +34,15 @@
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
   * html: https://veranostech.github.io/docs-korean-sqlalchemy/doc/build/output/html/index.html
 
+* 알렘빅(Alembic)
+
+  * repo: https://github.com/VeranosTech/docs-korean-alembic
+
 * 스크래피(Scrapy)
 
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
 
-* cvxopt
+* CVX옵트(cvxopt)
 
   * repo: https://github.com/VeranosTech/docs-korean-cvxopt.git
   * html: https://veranostech.github.io/docs-korean-cvxopt/index.html
