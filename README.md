@@ -34,6 +34,11 @@
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
   * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index_ko.html
 
+* 싸이썬(Cython)
+
+  * repo: https://github.com/VeranosTech/docs-korean-cython
+  * html: https://veranostech.github.io/docs-korean-cython/docs/build/html/index.html
+
 * Sql알케미(SqlAlchemy)
 
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
