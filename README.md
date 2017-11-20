@@ -19,6 +19,11 @@
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
   * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
 
+* 파이썬(CPython)
+
+  * repo: https://github.com/VeranosTech/docs-korean-cpython
+  * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
+
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
 
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
