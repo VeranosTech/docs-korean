@@ -9,7 +9,7 @@
   * repo: https://github.com/VeranosTech/docs-korean-conda-docs
   * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
 
-* 독유틸(Docutils)
+* 독유틸즈(Docutils)
 
   * repo: https://github.com/VeranosTech/docs-korean-docutils
   * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index_ko.html
