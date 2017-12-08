@@ -52,7 +52,7 @@
 * 스크래피(Scrapy)
 
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
-  * html: https://veranostech.github.io/docs-korean-scrapy/docs/build/html/index.html
+  * html: https://veranostech.github.io/docs-korean-scrapy/docs/build/html/index_ko.html
 
 
 ## 번역 작업 가이드
