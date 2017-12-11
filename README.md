@@ -55,11 +55,18 @@
   * html: https://veranostech.github.io/docs-korean-scrapy/docs/build/html/index_ko.html
 
 
+## Pandoc 관련 문서
+
+* 판독(Pandoc)
+
+  * repo: https://github.com/VeranosTech/pandoc
+
+* Pypandoc
+
+  * repo: https://github.com/VeranosTech/pypandoc
+
+
 ## 번역 작업 가이드
 
-* [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
+  * [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
 
-
-## 번역 용어집
-
-* https://docs.google.com/a/veranostech.com/spreadsheets/d/1bqXww1Q5PuYEDMu-1ax32dkVoUcgKgYhXqmteB4IvSs/edit?usp=sharing
