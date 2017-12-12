@@ -70,3 +70,11 @@
 
   * [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
 
+
+## 번역 작업 참고 자료
+
+* GNU 번역 가이드
+
+  * https://www.gnu.org/server/standards/README.translations.html   
+  * https://www.gnu.org/software/trans-coord/manual/web-trans/web-trans.html
+ 
