@@ -54,6 +54,11 @@
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
   * html: https://veranostech.github.io/docs-korean-scrapy/docs/build/html/index_ko.html
 
+* 판다스(Pandas)
+
+  * repo: https://github.com/VeranosTech/docs-korean-pandas
+  * html: https://veranostech.github.io/docs-korean-pandas/doc/build/html/index_ko.html
+
 
 ## Pandoc 관련 문서
 
