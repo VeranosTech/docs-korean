@@ -60,15 +60,16 @@
   * html: https://veranostech.github.io/docs-korean-pandas/doc/build/html/index_ko.html
 
 
-## Pandoc 관련 문서
+## 문서화 도구
 
 * 판독(Pandoc)
 
   * repo: https://github.com/VeranosTech/pandoc
 
-* Pypandoc
+* 지킬(Jekyll)
 
   * repo: https://github.com/VeranosTech/pypandoc
+  * html: https://jekyllrb-ko.github.io/
 
 
 ## 번역 작업 가이드
