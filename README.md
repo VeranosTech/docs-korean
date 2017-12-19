@@ -68,8 +68,8 @@
 
 * 지킬(Jekyll)
 
-  * repo: https://github.com/VeranosTech/pypandoc
-  * html: https://jekyllrb-ko.github.io/
+  * repo: https://github.com/jekyllrb-ko/jekyllrb-ko.github.io
+  * html: https://jekyllrb-ko.github.io/
 
 
 ## 번역 작업 가이드
