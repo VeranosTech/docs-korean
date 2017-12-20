@@ -72,6 +72,15 @@
   * html: https://jekyllrb-ko.github.io/
 
 
+## 외부 링크
+
+* PostgreSQL
+
+  * repo: https://github.com/i0seph/pgdoc-kr
+  
+  * html: http://postgresql.kr/docs/
+
+
 ## 번역 작업 가이드
 
   * [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
