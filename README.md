@@ -87,6 +87,10 @@
   
   * html: http://postgresql.kr/docs/
 
+* 이맥스
+
+  * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
+
 
 ## 번역 작업 가이드
 
