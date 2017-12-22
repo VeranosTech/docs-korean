@@ -81,9 +81,12 @@
 
 ## 외부 링크
 
-* GNU 매뉴얼
+* GNU 도구 매뉴얼
 
-  * http://korea.gnu.org/manual/
+  * [GNU Korea](http://korea.gnu.org/manual/)
+  * [Bash](https://www.gitbook.com/book/mug896/shell-script/details)
+  * [Sed](https://www.gitbook.com/book/mug896/sed-script/details>)
+  * [Awk](https://www.gitbook.com/book/mug896/awk-script/details>)
 
 * 이맥스
 
