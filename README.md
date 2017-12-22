@@ -81,16 +81,19 @@
 
 ## 외부 링크
 
-* PostgreSQL
+* GNU 매뉴얼
 
-  * repo: https://github.com/i0seph/pgdoc-kr
-  
-  * html: http://postgresql.kr/docs/
+  * http://korea.gnu.org/manual/
 
 * 이맥스
 
   * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
 
+* PostgreSQL
+
+  * repo: https://github.com/i0seph/pgdoc-kr
+  
+  * html: http://postgresql.kr/docs/
 
 ## 번역 작업 가이드
 
