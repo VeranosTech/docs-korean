@@ -67,6 +67,7 @@
 
 * GNU메이크(GNU Make)
   * repo: https://github.com/VeranosTech/docs-korean-make
+  * html: https://veranostech.github.io/docs-korean-make/doc/make.html/index.html
 
 
 ## 인프라 관련
