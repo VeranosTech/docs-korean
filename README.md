@@ -63,6 +63,7 @@
 
 * 이맥스(Emacs)
   * repo: https://github.com/VeranosTech/docs-korean-emacs
+  * html: https://veranostech.github.io/docs-korean-emacs/doc/emacs/emacs.html
 
 * GNU메이크(GNU Make)
   * repo: https://github.com/VeranosTech/docs-korean-make
