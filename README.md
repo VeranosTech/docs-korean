@@ -58,6 +58,16 @@
   * repo: https://github.com/jekyllrb-ko/jekyllrb-ko.github.io
   * html: https://jekyllrb-ko.github.io/
 
+
+## 개발 도구
+
+* 이맥스(Emacs)
+  * repo: https://github.com/VeranosTech/docs-korean-emacs
+
+* GNU메이크(GNU Make)
+  * repo: https://github.com/VeranosTech/docs-korean-make
+
+
 ## 인프라 관련
 
 * 도커(Docker)
