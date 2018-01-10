@@ -30,7 +30,7 @@
 
 * 싸이썬(Cython)
   * repo: https://github.com/VeranosTech/docs-korean-cython
-  * html: https://veranostech.github.io/docs-korean-cython/docs/build/html/index.html
+  * html: https://veranostech.github.io/docs-korean-cython/docs/build/html/index_ko.html
 
 * Sql알케미(SqlAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
