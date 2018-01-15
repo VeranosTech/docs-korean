@@ -84,7 +84,7 @@
   * Bash: https://www.gitbook.com/book/mug896/shell-script/details
   * Sed: https://www.gitbook.com/book/mug896/sed-script/details
   * Awk: https://www.gitbook.com/book/mug896/awk-script/details
-  * Make: http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
+  * Make: http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
 
 * 이맥스(Emacs)
   * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
