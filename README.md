@@ -4,10 +4,6 @@
 
 ## 파이썬 관련
 
-* 콘다(Conda)
-  * repo: https://github.com/VeranosTech/docs-korean-conda-docs
-  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
-
 * 독유틸즈(Docutils)
   * repo: https://github.com/VeranosTech/docs-korean-docutils
   * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index_ko.html
@@ -16,9 +12,19 @@
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
   * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
 
+* 콘다(Conda)
+  * repo: https://github.com/VeranosTech/docs-korean-conda-docs
+  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
+
 * 파이썬(CPython)
   * repo: https://github.com/VeranosTech/docs-korean-cpython
   * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
+
+* 아이파이썬(IPython)
+  * repo: https://github.com/VeranosTech/docs-korean-ipython
+
+* 주피터(Jupyter)
+  * repo: https://github.com/VeranosTech/docs-korean-jupyter
 
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
