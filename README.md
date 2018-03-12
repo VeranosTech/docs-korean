@@ -8,10 +8,6 @@
   * repo: https://github.com/VeranosTech/docs-korean-docutils
   * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index_ko.html
 
-* 스핑크스(Sphinx)
-  * repo: https://github.com/VeranosTech/docs-korean-sphinx
-  * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
-
 * 콘다(Conda)
   * repo: https://github.com/VeranosTech/docs-korean-conda-docs
   * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
@@ -33,6 +29,10 @@
 * 셋업툴즈(Setuptools)
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
   * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index_ko.html
+
+* 스핑크스(Sphinx)
+  * repo: https://github.com/VeranosTech/docs-korean-sphinx
+  * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
 
 * 싸이썬(Cython)
   * repo: https://github.com/VeranosTech/docs-korean-cython
