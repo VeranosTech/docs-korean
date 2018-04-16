@@ -16,6 +16,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-cpython
   * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
 
+* PEP
+  * repo: https://github.com/VeranosTech/docs-korean-peps
+  * html: https://veranostech.github.io/docs-korean-peps/pep-0000.html
+
 * 아이파이썬(IPython)
   * repo: https://github.com/VeranosTech/docs-korean-ipython
 
