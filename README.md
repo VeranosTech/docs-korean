@@ -28,7 +28,7 @@
 
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
-  * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/html/index_ko.html
+  * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/index_ko.html
 
 * 셋업툴즈(Setuptools)
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
