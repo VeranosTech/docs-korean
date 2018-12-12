@@ -20,12 +20,6 @@
   * repo: https://github.com/VeranosTech/docs-korean-peps
   * html: https://veranostech.github.io/docs-korean-peps/pep-0000.html
 
-* 아이파이썬(IPython)
-  * repo: https://github.com/VeranosTech/docs-korean-ipython
-
-* 주피터(Jupyter)
-  * repo: https://github.com/VeranosTech/docs-korean-jupyter
-
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
   * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/index_ko.html
@@ -37,10 +31,6 @@
 * 스핑크스(Sphinx)
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
   * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
-
-* 싸이썬(Cython)
-  * repo: https://github.com/VeranosTech/docs-korean-cython
-  * html: https://veranostech.github.io/docs-korean-cython/docs/build/html/index_ko.html
 
 * Sql알케미(SqlAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
@@ -59,27 +49,6 @@
   * html: https://veranostech.github.io/docs-korean-pandas/doc/build/html/index_ko.html
 
 
-## 문서화 도구
-
-* 판독(Pandoc)
-  * repo: https://github.com/VeranosTech/pandoc
-
-* 지킬(Jekyll)
-  * repo: https://github.com/jekyllrb-ko/jekyllrb-ko.github.io
-  * html: https://jekyllrb-ko.github.io/
-
-
-## 개발 도구
-
-* 이맥스(Emacs)
-  * repo: https://github.com/VeranosTech/docs-korean-emacs
-  * html: https://veranostech.github.io/docs-korean-emacs/doc/emacs/emacs.html
-
-* GNU메이크(GNU Make)
-  * repo: https://github.com/VeranosTech/docs-korean-make
-  * html: https://veranostech.github.io/docs-korean-make/doc/make.html/index.html
-
-
 ## 인프라 관련
 
 * 도커(Docker)
@@ -87,31 +56,6 @@
   * html: https://veranostech.github.io/docs-korean-docker/
 
 
-## 외부 한국어 링크
-
-* GNU 도구 매뉴얼
-  * GNU Korea 매뉴얼 프로젝트: http://korea.gnu.org/manual/
-  * Bash: https://www.gitbook.com/book/mug896/shell-script/details
-  * Sed: https://www.gitbook.com/book/mug896/sed-script/details
-  * Awk: https://www.gitbook.com/book/mug896/awk-script/details
-  * Make: http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
-
-* 이맥스(Emacs)
-  * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
-
-* PostgreSQL
-  * repo: https://github.com/i0seph/pgdoc-kr
-  * html: http://postgresql.kr/docs/
-
 ## 번역 작업 가이드
 
   * [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
-
-
-## 번역 작업 참고 자료
-
-* GNU 번역 가이드
-
-  * https://www.gnu.org/server/standards/README.translations.html   
-  * https://www.gnu.org/software/trans-coord/manual/web-trans/web-trans.html
- 
