@@ -22,7 +22,7 @@
 
 * 셋업툴즈(Setuptools)
   * repo: https://github.com/VeranosTech/docs-korean-setuptools
-  * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index_ko.html
+  * html: https://veranostech.github.io/docs-korean-setuptools/docs/build/html/index.html
 
 * 스핑크스(Sphinx)
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
