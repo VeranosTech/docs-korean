@@ -30,7 +30,7 @@
 
 * Sql알케미(SqlAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
-  * html: https://veranostech.github.io/docs-korean-sqlalchemy/doc/build/output/html/index_ko.html
+  * html: https://veranostech.github.io/docs-korean-sqlalchemy/doc/build/output/html/index.html
 
 * 알렘빅(Alembic)
   * repo: https://github.com/VeranosTech/docs-korean-alembic
