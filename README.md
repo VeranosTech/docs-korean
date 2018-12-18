@@ -10,7 +10,7 @@
 
 * 콘다(Conda)
   * repo: https://github.com/VeranosTech/docs-korean-conda-docs
-  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index_ko.html
+  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index.html
 
 * 파이썬(CPython)
   * repo: https://github.com/VeranosTech/docs-korean-cpython
