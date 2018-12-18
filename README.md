@@ -16,10 +16,6 @@
   * repo: https://github.com/VeranosTech/docs-korean-cpython
   * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
 
-* PEP
-  * repo: https://github.com/VeranosTech/docs-korean-peps
-  * html: https://veranostech.github.io/docs-korean-peps/pep-0000.html
-
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
   * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/index_ko.html
