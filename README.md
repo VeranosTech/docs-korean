@@ -55,3 +55,37 @@
 ## 번역 작업 가이드
 
   * [github 페이지 기능 사용 및 gh-pages 브랜치 작성 방법](./gh-branch.rst)
+
+## 외부 링크
+
+* Python
+
+  * https://docs.python.org/ko/3/
+  * https://github.com/python/python-docs-ko/tree/3.7
+
+* GNU 도구 매뉴얼
+  * 한국어 번역: http://korea.gnu.org/manual/
+  * 일본어 번역: https://linuxjm.osdn.jp/
+  * make: http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
+  * gettext: http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
+  * Bash: https://www.gitbook.com/book/mug896/shell-script/details
+  * Sed: https://www.gitbook.com/book/mug896/sed-script/details
+  * Awk: https://www.gitbook.com/book/mug896/awk-script/details
+  
+* 이맥스(Emacs)
+  * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
+  * 일본어 번역: https://ayatakesi.github.io/
+
+* PostgreSQL
+
+  * http://postgresql.kr/docs/
+  * 일본어 번역: https://github.com/pgsql-jp/jpug-doc (Japanese)
+
+
+## 번역 작업 참고 자료
+
+* GNU 번역 가이드
+
+  * https://www.gnu.org/server/standards/README.translations.html   
+  * https://www.gnu.org/software/trans-coord/manual/web-trans/web-trans.html
+  
