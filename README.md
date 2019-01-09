@@ -28,6 +28,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
   * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
 
+* 주피터(Jupyter)
+  * repo: https://github.com/VeranosTech/docs-korean-jupyter
+  * html: https://veranostech.github.io/docs-korean-jupyter/docs/build/html/index.html
+
 * Sql알케미(SqlAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
   * html: https://veranostech.github.io/docs-korean-sqlalchemy/doc/build/output/html/index.html
