@@ -16,6 +16,14 @@
   * repo: https://github.com/VeranosTech/docs-korean-cpython
   * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
 
+* 주피터(Jupyter)
+  * repo: https://github.com/VeranosTech/docs-korean-jupyter
+  * html: https://veranostech.github.io/docs-korean-jupyter/docs/build/html/index.html
+
+* IPython
+  * repo: https://github.com/VeranosTech/docs-korean-ipython
+  * html: https://veranostech.github.io/docs-korean-ipython/docs/build/html/index.html
+
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
   * html: https://veranostech.github.io/docs-korean-python-packaging-user-guide/build/html/index.html
@@ -27,10 +35,6 @@
 * 스핑크스(Sphinx)
   * repo: https://github.com/VeranosTech/docs-korean-sphinx
   * html: https://veranostech.github.io/docs-korean-sphinx/doc/_build/html/index.html
-
-* 주피터(Jupyter)
-  * repo: https://github.com/VeranosTech/docs-korean-jupyter
-  * html: https://veranostech.github.io/docs-korean-jupyter/docs/build/html/index.html
 
 * Sql알케미(SqlAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
