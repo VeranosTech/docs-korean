@@ -16,13 +16,21 @@
   * repo: https://github.com/VeranosTech/docs-korean-cpython
   * html: https://veranostech.github.io/docs-korean-cpython/Doc/build/html/index.html
 
+* IPython
+  * repo: https://github.com/VeranosTech/docs-korean-ipython
+  * html: https://veranostech.github.io/docs-korean-ipython/docs/build/html/index.html
+
 * 주피터(Jupyter)
   * repo: https://github.com/VeranosTech/docs-korean-jupyter
   * html: https://veranostech.github.io/docs-korean-jupyter/docs/build/html/index.html
 
-* IPython
-  * repo: https://github.com/VeranosTech/docs-korean-ipython
-  * html: https://veranostech.github.io/docs-korean-ipython/docs/build/html/index.html
+* 주피터 노트북(Notebook)
+  * repo: https://github.com/VeranosTech/docs-korean-notebook
+  * html: https://veranostech.github.io/docs-korean-notebook/docs/build/html/index.html
+
+* Nbconvert
+  * repo: https://github.com/VeranosTech/docs-korean-nbconvert
+  * html: https://veranostech.github.io/docs-korean-nbconvert/docs/build/html/index.html
 
 * 파이썬 패키징 사용자 가이드(Python Packaging User Guide)
   * repo: https://github.com/VeranosTech/docs-korean-python-packaging-user-guide
