@@ -84,15 +84,26 @@
   * https://github.com/python/python-docs-ko/tree/3.7
 
 * GNU 도구 매뉴얼
-  * 한국어 번역: http://korea.gnu.org/manual/
+
+  * 한국어 번역: 
+  
+    * http://korea.gnu.org/manual/
+    * https://wiki.kldp.org/wiki.php/%B0%B3%B9%DF%C0%DA%C4%DA%B3%CA
+    
   * 일본어 번역: https://linuxjm.osdn.jp/
-  * make: http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
+  
+  * make
+  
+    * http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
+    * https://wiki.kldp.org/KoreanDoc/html/GNU-Make/GNU-Make.html
+    
   * gettext: http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
   * Bash: https://www.gitbook.com/book/mug896/shell-script/details
   * Sed: https://www.gitbook.com/book/mug896/sed-script/details
   * Awk: https://www.gitbook.com/book/mug896/awk-script/details
   
 * 이맥스(Emacs)
+
   * http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual
   * 일본어 번역: https://ayatakesi.github.io/
 
