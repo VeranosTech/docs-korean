@@ -92,15 +92,19 @@
     
   * 일본어 번역: https://linuxjm.osdn.jp/
   
+  * Awk: https://mug896.github.io/awk-script/
+  * Bash: https://mug896.github.io/bash-shell/
+  * Sed: https://mug896.gitbooks.io/awk-script/
+  
+  * gettext
+  
+    * http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
+    
   * make
   
     * http://korea.gnu.org/manual/4check/make-3.77/ko/make_toc.html
     * https://wiki.kldp.org/KoreanDoc/html/GNU-Make/GNU-Make.html
     
-  * gettext: http://korea.gnu.org/manual/release/gettext/gettext-ko_toc.html
-  * Bash: https://www.gitbook.com/book/mug896/shell-script/details
-  * Sed: https://www.gitbook.com/book/mug896/sed-script/details
-  * Awk: https://www.gitbook.com/book/mug896/awk-script/details
   
 * 이맥스(Emacs)
 
