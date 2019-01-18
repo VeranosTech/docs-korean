@@ -64,6 +64,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-pandas
   * html: https://veranostech.github.io/docs-korean-pandas/doc/build/html/index_ko.html
 
+* 앤서블(Ansible)
+  * repo: https://github.com/VeranosTech/docs-korean-ansible
+  * html: https://veranostech.github.io/docs-korean-ansible/docs/docsite/_build/html/index.html
+
 
 ## 인프라 관련
 
