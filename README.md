@@ -68,6 +68,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-ansible
   * html: https://veranostech.github.io/docs-korean-ansible/docs/docsite/_build/html/index.html
 
+* 파이윈오토(pywinauto)
+  * repo: https://github.com/VeranosTech/docs-korean-pywinauto
+  * html: https://veranostech.github.io/docs-korean-pywinauto/docs/_build/index.html
+
 
 ## 인프라 관련
 
