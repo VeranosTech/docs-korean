@@ -70,7 +70,7 @@
 
 * 파이윈오토(pywinauto)
   * repo: https://github.com/VeranosTech/docs-korean-pywinauto
-  * html: https://veranostech.github.io/docs-korean-pywinauto/docs/_build/index.html
+  * html: https://veranostech.github.io/docs-korean-pywinauto/docs/_build/html/index.html
 
 
 ## 인프라 관련
