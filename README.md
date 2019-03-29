@@ -80,6 +80,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-bokeh
   * html: https://veranostech.github.io/docs-korean-bokeh/sphinx/build/html/index.html
 
+* 컨넥션(connexion)
+  * repo: https://github.com/VeranosTech/docs-korean-connexion
+  * html: https://veranostech.github.io/docs-korean-connexion/docs/_build/html/index.html
+
 
 ## 인프라 관련
 
