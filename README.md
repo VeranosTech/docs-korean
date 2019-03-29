@@ -76,6 +76,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-pywinauto
   * html: https://veranostech.github.io/docs-korean-pywinauto/docs/_build/html/index.html
 
+* 보케(bokeh)
+  * repo: https://github.com/VeranosTech/docs-korean-bokeh
+  * html: https://veranostech.github.io/docs-korean-bokeh/sphinx/build/html/index.html
+
 
 ## 인프라 관련
 
