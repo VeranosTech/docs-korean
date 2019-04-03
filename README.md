@@ -84,6 +84,9 @@
   * repo: https://github.com/VeranosTech/docs-korean-connexion
   * html: https://veranostech.github.io/docs-korean-connexion/docs/_build/html/index.html
 
+* 에어플로우(Airflow)
+  * repo: https://github.com/VeranosTech/docs-korean-airflow
+  * html: https://veranostech.github.io/docs-korean-airflow/docs/_build/html/index.html
 
 ## 인프라 관련
 
