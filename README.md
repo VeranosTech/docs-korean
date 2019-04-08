@@ -88,6 +88,15 @@
   * repo: https://github.com/VeranosTech/docs-korean-airflow
   * html: https://veranostech.github.io/docs-korean-airflow/docs/_build/html/index.html
 
+* 플라스크-Sql알케미(Flask-SQLAlchemy)
+  * repo: https://github.com/VeranosTech/docs-korean-flask-sqlalchemy
+
+* 플라스크-로그인(Flask-Login)
+  * repo: https://github.com/VeranosTech/docs-korean-flask-login
+
+* 오스리브(Authlib)
+  * repo: https://github.com/VeranosTech/docs-korean-authlib
+
 ## 인프라 관련
 
 * 도커(Docker)
