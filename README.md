@@ -94,6 +94,7 @@
 
 * 플라스크-로그인(Flask-Login)
   * repo: https://github.com/VeranosTech/docs-korean-flask-login
+  * html: https://veranostech.github.io/docs-korean-flask-login/docs/_build/html/index.html
 
 * 오스리브(Authlib)
   * repo: https://github.com/VeranosTech/docs-korean-authlib
