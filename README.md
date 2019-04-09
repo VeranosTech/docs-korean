@@ -98,6 +98,7 @@
 
 * 오스리브(Authlib)
   * repo: https://github.com/VeranosTech/docs-korean-authlib
+  * html: https://veranostech.github.io/docs-korean-authlib/docs/_build/html/index.html
 
 ## 기타
 
