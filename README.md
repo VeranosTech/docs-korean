@@ -90,6 +90,7 @@
 
 * 플라스크-Sql알케미(Flask-SQLAlchemy)
   * repo: https://github.com/VeranosTech/docs-korean-flask-sqlalchemy
+  * html: https://veranostech.github.io/docs-korean-flask-sqlalchemy/docs/_build/html/index.html
 
 * 플라스크-로그인(Flask-Login)
   * repo: https://github.com/VeranosTech/docs-korean-flask-login
