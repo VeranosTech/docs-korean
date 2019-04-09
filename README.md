@@ -97,7 +97,11 @@
 * 오스리브(Authlib)
   * repo: https://github.com/VeranosTech/docs-korean-authlib
 
-## 인프라 관련
+## 기타
+
+* 웹 접근성 튜토리얼
+
+  * https://github.com/VeranosTech/docs-korean-wai-tutorials
 
 * 도커(Docker)
   * repo: https://github.com/VeranosTech/docs-korean-docker
