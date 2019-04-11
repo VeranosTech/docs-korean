@@ -62,7 +62,7 @@
 
 * 판다스(Pandas)
   * repo: https://github.com/VeranosTech/docs-korean-pandas
-  * html: https://veranostech.github.io/docs-korean-pandas/doc/build/html/index_ko.html
+  * html: https://veranostech.github.io/docs-korean-pandas/doc/source/_build/index.html
 
 * 앤서블(Ansible)
   * repo: https://github.com/VeranosTech/docs-korean-ansible
