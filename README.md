@@ -102,6 +102,14 @@
 
 ## 기타
 
+* 구글 스타일가이드
+
+  * repo: https://github.com/VeranosTech/docs-korean-styleguide
+  * 파이썬: https://veranostech.github.io/docs-korean-styleguide/pyguide.html
+  * 자바: https://veranostech.github.io/docs-korean-styleguide/javaguide.html
+  * 자바스크립트: https://veranostech.github.io/docs-korean-styleguide/jsguide.html
+  * html/css: https://veranostech.github.io/docs-korean-styleguide/htmlcssguide.html
+  
 * 웹 접근성 튜토리얼
 
   * https://github.com/VeranosTech/docs-korean-wai-tutorials
