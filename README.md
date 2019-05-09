@@ -64,6 +64,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-flask
   * html: https://veranostech.github.io/docs-korean-flask/docs/_build/html/index.html
 
+* 마이크로WSGI(uWSGI)
+  * repo: https://github.com/VeranosTech/docs-korean-uwsgi-docs
+  * html: https://veranostech.github.io/docs-korean-uwsgi-docs/_build/index.html
+
 * 판다스(Pandas)
   * repo: https://github.com/VeranosTech/docs-korean-pandas
   * html: https://veranostech.github.io/docs-korean-pandas/doc/source/_build/index.html
