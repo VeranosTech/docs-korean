@@ -60,13 +60,25 @@
   * repo: https://github.com/VeranosTech/docs-korean-scrapy
   * html: https://veranostech.github.io/docs-korean-scrapy/docs/build/html/index_ko.html
 
+* 마이크로WSGI(uWSGI)
+  * repo: https://github.com/VeranosTech/docs-korean-uwsgi-docs
+  * html: https://veranostech.github.io/docs-korean-uwsgi-docs/_build/html/index.html
+
 * 플라스크(Flask)
   * repo: https://github.com/VeranosTech/docs-korean-flask
   * html: https://veranostech.github.io/docs-korean-flask/docs/_build/html/index.html
 
-* 마이크로WSGI(uWSGI)
-  * repo: https://github.com/VeranosTech/docs-korean-uwsgi-docs
-  * html: https://veranostech.github.io/docs-korean-uwsgi-docs/_build/index.html
+* 플라스크-Sql알케미(Flask-SQLAlchemy)
+  * repo: https://github.com/VeranosTech/docs-korean-flask-sqlalchemy
+  * html: https://veranostech.github.io/docs-korean-flask-sqlalchemy/docs/_build/html/index.html
+
+* 플라스크-로그인(Flask-Login)
+  * repo: https://github.com/VeranosTech/docs-korean-flask-login
+  * html: https://veranostech.github.io/docs-korean-flask-login/docs/_build/html/index.html
+
+* 오스리브(Authlib)
+  * repo: https://github.com/VeranosTech/docs-korean-authlib
+  * html: https://veranostech.github.io/docs-korean-authlib/docs/_build/html/index.html
 
 * 판다스(Pandas)
   * repo: https://github.com/VeranosTech/docs-korean-pandas
@@ -95,18 +107,6 @@
 * 에어플로우(Airflow)
   * repo: https://github.com/VeranosTech/docs-korean-airflow
   * html: https://veranostech.github.io/docs-korean-airflow/docs/_build/html/index.html
-
-* 플라스크-Sql알케미(Flask-SQLAlchemy)
-  * repo: https://github.com/VeranosTech/docs-korean-flask-sqlalchemy
-  * html: https://veranostech.github.io/docs-korean-flask-sqlalchemy/docs/_build/html/index.html
-
-* 플라스크-로그인(Flask-Login)
-  * repo: https://github.com/VeranosTech/docs-korean-flask-login
-  * html: https://veranostech.github.io/docs-korean-flask-login/docs/_build/html/index.html
-
-* 오스리브(Authlib)
-  * repo: https://github.com/VeranosTech/docs-korean-authlib
-  * html: https://veranostech.github.io/docs-korean-authlib/docs/_build/html/index.html
 
 ## 기타
 
