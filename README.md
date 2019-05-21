@@ -14,7 +14,7 @@
 
 * 콘다(Conda): 새 버전
   * repo: https://github.com/VeranosTech/docs-korean-conda
-  * html: https://veranostech.github.io/docs-korean-conda/docs/build/html/index.html
+  * html: https://veranostech.github.io/docs-korean-conda/docs/_build/html/index.html
 
 * 파이썬(CPython)
   * repo: https://github.com/VeranosTech/docs-korean-cpython
