@@ -112,6 +112,11 @@
   * repo: https://github.com/VeranosTech/docs-korean-airflow
   * html: https://veranostech.github.io/docs-korean-airflow/docs/_build/html/index.html
 
+* 셀러리(Celery)
+  * repo: https://github.com/VeranosTech/docs-korean-celery
+  * html: https://veranostech.github.io/docs-korean-celery/docs/_build/html/index.html
+
+
 ## 기타
 
 * 구글 스타일가이드
