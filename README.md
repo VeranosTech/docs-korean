@@ -8,11 +8,7 @@
   * repo: https://github.com/VeranosTech/docs-korean-docutils
   * html: https://veranostech.github.io/docs-korean-docutils/docutils/docs/index_ko.html
 
-* 콘다(Conda): 옛날 버전
-  * repo: https://github.com/VeranosTech/docs-korean-conda-docs
-  * html: https://veranostech.github.io/docs-korean-conda-docs/docs/build/html/index.html
-
-* 콘다(Conda): 새 버전
+* 콘다(Conda)
   * repo: https://github.com/VeranosTech/docs-korean-conda
   * html: https://veranostech.github.io/docs-korean-conda/docs/_build/html/index.html
 
