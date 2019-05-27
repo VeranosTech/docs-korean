@@ -50,7 +50,7 @@
 
 * SqlAlchemy-Continuum
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy-continuum
-  * html: https://veranostech.github.io/docs-korean-sqlalchemy-continuum/docs/_build/html/index.html
+  * html: https://veranostech.github.io/docs-korean-sqlalchemy-continuum/docs/_build/index.html
 
 * 알렘빅(Alembic)
   * repo: https://github.com/VeranosTech/docs-korean-alembic
