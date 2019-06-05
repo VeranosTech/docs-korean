@@ -48,6 +48,10 @@
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy
   * html: https://veranostech.github.io/docs-korean-sqlalchemy/doc/build/output/html/index.html
 
+* SqlAlchemy-Utils
+  * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy-utils
+  * html: https://veranostech.github.io/docs-korean-sqlalchemy-utils/docs/_build/html/index.html
+
 * SqlAlchemy-Continuum
   * repo: https://github.com/VeranosTech/docs-korean-sqlalchemy-continuum
   * html: https://veranostech.github.io/docs-korean-sqlalchemy-continuum/docs/_build/index.html
